@@ -1,4 +1,4 @@
-   { 
+    const firebaseConfig { 
     apiKey: "AIzaSyB3XUYSBihLvKNzWZ7S9clGkPGE6lQ0Ykk",
     authDomain: "projeto-login-prototipo.firebaseapp.com",
     projectId: "projeto-login-prototipo",
